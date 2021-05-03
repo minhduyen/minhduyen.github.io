@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../nodejs/blog_f8"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../w3_band"
+		},
+		{
+			"path": "../web bootcamp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w3_bandf8",
+		"git.ignoreLimitWarning": true
+	}
+}
